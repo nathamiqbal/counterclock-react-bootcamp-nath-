@@ -1,0 +1,29 @@
+body{
+  background-color:rgb(242, 225, 193);
+ text-align: center;
+}
+h1{
+  font-size: 75px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(185, 122, 149) ;
+}
+h2{
+  color:rgb(246, 174, 153);
+  font-size: 50px;
+  font-family: cursive;
+}
+button{
+  border-radius: 20px;
+  color: #F2E1C1;
+  background-color: rgb(185, 122, 149);
+  font-size: 35px;
+  padding: 20px 30px;
+}
+.count-button-in{
+  margin-left: 50px;
+
+}
+.count-button-de{
+  margin-left: 100px;
+
+}
